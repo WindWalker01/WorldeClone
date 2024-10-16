@@ -1,0 +1,12 @@
+11
+28C:\Dev\Web\wordle-clone\dist133735456302183292 1
+50C:\Dev\Web\wordle-clone\dist\index.7c0ccee6.js.map133735456302020922 0
+53C:\Dev\Web\wordle-clone\dist\wordle-clone.3464ddca.js133735456301825412 0
+39C:\Dev\Web\wordle-clone\dist\index.html133735456301813966 0
+46C:\Dev\Web\wordle-clone\dist\index.7c0ccee6.js133735456302020922 0
+34C:\Dev\Web\wordle-clone\index.html133735277707151635 0
+57C:\Dev\Web\wordle-clone\dist\wordle-clone.3464ddca.js.map133735456301856099 0
+51C:\Dev\Web\wordle-clone\dist\index.3a01df49.css.map133735456302183292 0
+47C:\Dev\Web\wordle-clone\dist\index.3a01df49.css133735456302183292 0
+30C:\Dev\Web\wordle-clone\app.js133735408642531241 0
+33C:\Dev\Web\wordle-clone\style.css133734371172284610 0

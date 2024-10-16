@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+.title-container {
+  justify-content: center;
+  margin-bottom: 30px;
+  display: flex;
+}
+
+.title-content {
+  border-color: #181c14;
+  border-bottom-style: solid;
+  border-bottom-width: medium;
+  padding: 20px 80px;
+}
+
+.title-content h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.guess-content {
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+}
+
+.guess-row {
+  justify-content: center;
+  display: flex;
+}
+
+.box-letter {
+  text-align: center;
+  border: solid gray;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  font-size: 45px;
+}
+
+.wrong {
+  color: #f5f5f5;
+  background-color: gray;
+  border-color: #d3d3d3;
+}
+
+.correct {
+  color: #f5f5f5;
+  background-color: green;
+  border-color: #d3d3d3;
+}
+
+.partial {
+  color: #f5f5f5;
+  background-color: orange;
+  border-color: #d3d3d3;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
